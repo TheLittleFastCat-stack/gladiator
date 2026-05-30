@@ -1,0 +1,14 @@
+C:\Users\Aleš Waksmundský\Desktop\git\Simulations\gladiator\bin\Debug\net10.0\gladiator.exe
+C:\Users\Aleš Waksmundský\Desktop\git\Simulations\gladiator\bin\Debug\net10.0\gladiator.deps.json
+C:\Users\Aleš Waksmundský\Desktop\git\Simulations\gladiator\bin\Debug\net10.0\gladiator.runtimeconfig.json
+C:\Users\Aleš Waksmundský\Desktop\git\Simulations\gladiator\bin\Debug\net10.0\gladiator.dll
+C:\Users\Aleš Waksmundský\Desktop\git\Simulations\gladiator\bin\Debug\net10.0\gladiator.pdb
+C:\Users\Aleš Waksmundský\Desktop\git\Simulations\gladiator\obj\Debug\net10.0\gladiator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleš Waksmundský\Desktop\git\Simulations\gladiator\obj\Debug\net10.0\gladiator.AssemblyInfoInputs.cache
+C:\Users\Aleš Waksmundský\Desktop\git\Simulations\gladiator\obj\Debug\net10.0\gladiator.AssemblyInfo.cs
+C:\Users\Aleš Waksmundský\Desktop\git\Simulations\gladiator\obj\Debug\net10.0\gladiator.csproj.CoreCompileInputs.cache
+C:\Users\Aleš Waksmundský\Desktop\git\Simulations\gladiator\obj\Debug\net10.0\gladiator.dll
+C:\Users\Aleš Waksmundský\Desktop\git\Simulations\gladiator\obj\Debug\net10.0\refint\gladiator.dll
+C:\Users\Aleš Waksmundský\Desktop\git\Simulations\gladiator\obj\Debug\net10.0\gladiator.pdb
+C:\Users\Aleš Waksmundský\Desktop\git\Simulations\gladiator\obj\Debug\net10.0\gladiator.genruntimeconfig.cache
+C:\Users\Aleš Waksmundský\Desktop\git\Simulations\gladiator\obj\Debug\net10.0\ref\gladiator.dll
