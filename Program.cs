@@ -241,6 +241,16 @@ async Task upgrade()
 {   
     level ++;
     Console.WriteLine("Upgrade your stats: damage / health / defense");
+    Console.WriteLine("Current stats:");
+    Console.Write("Damage:");
+    Console.WriteLine(damage);
+    Console.Write("Health:");
+    Console.WriteLine(health);
+    Console.Write("Defense");
+    Console.WriteLine(defense);
+    Console.Write("Dodge:");
+    Console.WriteLine(dodge);
+
     input = Console.ReadLine();
 
     if(input == "damage"){damage += 10; await fight();}

@@ -12,3 +12,4 @@ C:\Users\Aleš Waksmundský\Desktop\git\Simulations\gladiator\obj\Debug\net10.0\
 C:\Users\Aleš Waksmundský\Desktop\git\Simulations\gladiator\obj\Debug\net10.0\gladiator.pdb
 C:\Users\Aleš Waksmundský\Desktop\git\Simulations\gladiator\obj\Debug\net10.0\gladiator.genruntimeconfig.cache
 C:\Users\Aleš Waksmundský\Desktop\git\Simulations\gladiator\obj\Debug\net10.0\ref\gladiator.dll
+C:\Users\Aleš Waksmundský\Desktop\git\Simulations\gladiator\obj\Debug\net10.0\gladiator.sourcelink.json
