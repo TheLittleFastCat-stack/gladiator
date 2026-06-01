@@ -47,7 +47,7 @@ async Task start()
         damage = rnd.Next(30, 50);
         health = rnd.Next(45, 60);
         defense = rnd.Next(25, 45);
-        dodge = rnd.Next(38, 55);
+        dodge = rnd.Next(50, 65);
 
         type = "dodger";
     }
@@ -103,7 +103,7 @@ void generateEnemy()
         damageE = rnd.Next(30, 50);
         healthE = rnd.Next(45, 60);
         defenseE = rnd.Next(25, 45);
-        dodgeE = rnd.Next(38, 55);
+        dodgeE = rnd.Next(50, 65);
 
         typeE = "dodger";
     }
