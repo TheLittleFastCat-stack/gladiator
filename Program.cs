@@ -223,6 +223,7 @@ async Task fight()
 async Task lost()
 {
     Console.WriteLine("You lost. Try again? (y / n)");
+    Console.WriteLine("Level: " + level);
     input = Console.ReadLine();
     if(input == "y"){await start();}
     else{System.Environment.Exit(1);}
